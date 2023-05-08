@@ -26,7 +26,7 @@ in ICML. 2023.
 
 ```
 @inproceedings{xu2023fascinating,
-  author={Xu, Hongzuo and Wang, Yijie and Wei, Juhui and Li, Yizhou and Liu, Ning},  
+  author={Xu, Hongzuo and Wang, Yijie and Wei, Juhui and Jian, Songlei and Li, Yizhou and Liu, Ning},  
   booktitle={International Conference on Machine Learning},  
   title={Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning},   
   year={2023},
