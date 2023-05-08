@@ -9,7 +9,7 @@ Easy APIs like the sklearn style.
 We first instantiate the model class by giving the parameters
 then, the instantiated model can be used to fit and predict data
 
-```
+```Python
 from algorithms.slad import SLAD
 model = SLAD()
 model.fit(X_train)
