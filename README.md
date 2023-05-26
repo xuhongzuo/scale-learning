@@ -3,6 +3,8 @@
 the source code of the paper "Fascinating Supervisory Signals and Where to Find Them:
 Deep Anomaly Detection with Scale Learning" accepted by ICML'23 (to appear). 
 
+Please see our paper at https://arxiv.org/abs/2305.16114
+
 
 ## How to use?
 Easy APIs like the sklearn style.   
